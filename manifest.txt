@@ -1,0 +1,2 @@
+Main-Class: edu.du.cs.geometry.FaceMorpher
+
